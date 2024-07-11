@@ -1,10 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: aliceblue;
+}
 .box{
     height: 130px;
     width: 100px;
     padding: 40px;
-    background-color: burlywood;
+    background-color: aliceblue;
     border-radius: 17px;
     margin-left: 20px;
+    border-color: burlywood;
 }
 .box:hover{
     background-color: aquamarine;
