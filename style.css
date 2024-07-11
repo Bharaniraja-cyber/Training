@@ -1,0 +1,11 @@
+.box{
+    height: 130px;
+    width: 100px;
+    padding: 40px;
+    background-color: burlywood;
+    border-radius: 17px;
+    margin-left: 20px;
+}
+.box:hover{
+    background-color: aquamarine;
+}
